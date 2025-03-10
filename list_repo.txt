@@ -1,0 +1,84 @@
+Nom repository : appSuivisContractuel
+ Description : Application de suivis de contractuel  demo pour SUCAF
+  url : https://api.github.com/repos/mbodekama/appSuivisContractuel
+Nom repository : appSuivitApprenants
+ Description : Application de suivit de mes apprenants. Permet de faire deposer les devoirs et programmer les cours sur leur dashboard
+  url : https://api.github.com/repos/mbodekama/appSuivitApprenants
+Nom repository : ATOUM-WEBSITE
+ Description : ATOUM website project
+  url : https://api.github.com/repos/mbodekama/ATOUM-WEBSITE
+Nom repository : base_python
+ Description : Script créer lors de la formation dans les bases de python
+  url : https://api.github.com/repos/mbodekama/base_python
+Nom repository : blablacarCLone
+ Description : None
+  url : https://api.github.com/repos/mbodekama/blablacarCLone
+Nom repository : boubaArchive
+ Description : REPO DE SAUVEGARDE D'ARCHIVES L'APPLICATION MENEYA DE BOUBA 
+  url : https://api.github.com/repos/mbodekama/boubaArchive
+Nom repository : boubaShop
+ Description : SHOP DE BOUBA DIMBOKRO
+  url : https://api.github.com/repos/mbodekama/boubaShop
+Nom repository : calculatrice
+ Description : MINI CALCO REALISE LORS DE LA SEANCE DE JS 
+  url : https://api.github.com/repos/mbodekama/calculatrice
+Nom repository : crack_password_python
+ Description : Script créer lors de la formation sur les bases de python - CRACKER MOT DE PASSE
+  url : https://api.github.com/repos/mbodekama/crack_password_python
+Nom repository : dimad_meneya
+ Description : INSTANCE MENEYA POUR DIMAD DE BOUBA
+  url : https://api.github.com/repos/mbodekama/dimad_meneya
+Nom repository : ExpressAPI
+ Description : Une minimaliste application API via Express pour la formation JS
+  url : https://api.github.com/repos/mbodekama/ExpressAPI
+Nom repository : facerecognition
+ Description : None
+  url : https://api.github.com/repos/mbodekama/facerecognition
+Nom repository : GESCOMAS
+ Description : Application web de gestion de communauté et associations
+  url : https://api.github.com/repos/mbodekama/GESCOMAS
+Nom repository : gexpert
+ Description : GEXPERT WEBSITE AT GEXPERTCI.COM
+  url : https://api.github.com/repos/mbodekama/gexpert
+Nom repository : holincafe
+ Description : None
+  url : https://api.github.com/repos/mbodekama/holincafe
+Nom repository : immersionGroup
+ Description : SITE DE E-SERVICE - LOCATION ET ACHAT DE PICES DETACHES DE VEHICULES
+  url : https://api.github.com/repos/mbodekama/immersionGroup
+Nom repository : learn_html_css
+ Description : Projet de formation sur les base du dev web HTML5 CSS3
+  url : https://api.github.com/repos/mbodekama/learn_html_css
+Nom repository : mbodekama
+ Description : Config files for my GitHub profile.
+  url : https://api.github.com/repos/mbodekama/mbodekama
+Nom repository : miniSiteVitrine
+ Description : MAGNIFIQUE SITE VITRINE 
+  url : https://api.github.com/repos/mbodekama/miniSiteVitrine
+Nom repository : modeleSiteEcommerce
+ Description : SITE ECOMMERCE MONTER PAR UN TEMPLATE HTML POUR PROJET 
+  url : https://api.github.com/repos/mbodekama/modeleSiteEcommerce
+Nom repository : nextjs-blog-theme
+ Description : None
+  url : https://api.github.com/repos/mbodekama/nextjs-blog-theme
+Nom repository : recensement-web-app
+ Description : MINI APP WEB POUR ACCOMPAGNER VOS AGENTS DANS LA COLLECTE D'INFORMATION LORS D'UNE CAMPAGNE OU PROSPECTION
+  url : https://api.github.com/repos/mbodekama/recensement-web-app
+Nom repository : rihse
+ Description : RIHSE WEB SITE 
+  url : https://api.github.com/repos/mbodekama/rihse
+Nom repository : socya_old
+ Description : Logiciel de gestion d'adhérents pour associations Open-Source. Association Management System (AMS) or Membership software.
+  url : https://api.github.com/repos/mbodekama/socya_old
+Nom repository : tailWIndFirstProject
+ Description : Grille d'affichage d'élément Projet tailwind du 20 JUin 2022
+  url : https://api.github.com/repos/mbodekama/tailWIndFirstProject
+Nom repository : TEMPLATE-WEB-HTML
+ Description : MES TEMPLATES WEB EN HTML
+  url : https://api.github.com/repos/mbodekama/TEMPLATE-WEB-HTML
+Nom repository : test
+ Description : None
+  url : https://api.github.com/repos/mbodekama/test
+Nom repository : test_mbo
+ Description : None
+  url : https://api.github.com/repos/mbodekama/test_mbo
